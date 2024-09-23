@@ -16,7 +16,7 @@ This repository documents my learning journey with the Ray framework, which I en
 Some basics and advanced use cases of Ray Core:
 
 - [x] **A Gentle Introduction to Ray Core by Example**: [See Notebook](https://github.com/aveyilagrun/ray_tutorials/blob/main/core/intro.ipynb)
-- [ ] **Using Ray for Highly Parallelizable Tasks**: [See Notebook](https://github.com/aveyilagrun/ray_tutorials/blob/main/core/parallelizable_tasks.ipynb)
+- [x] **Using Ray for Highly Parallelizable Tasks**: [See Notebook](https://github.com/aveyilagrun/ray_tutorials/blob/main/core/parallelizable_tasks.ipynb)
 - [ ] *...* (more content to be added)
 
 ---
@@ -47,7 +47,7 @@ Some basics and advanced use cases of Ray Core:
 
 ## Ray Clusters
 
-- [ ] TBD
+- [ ] **Ray Clusters Overview**: [See Notebook](https://github.com/aveyilagrun/ray_tutorials/blob/main/core/overview.ipynb)
 
 ---
 
